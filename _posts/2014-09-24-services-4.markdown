@@ -1,0 +1,10 @@
+---
+layout: default
+img: swarm_follow.gif
+category: Services
+title: <a href="https://sites.google.com/view/aes-encryption/home">AES Encryption</a>
+description: |
+---
+***Computer Architecture*** *, Fall 2019*
+
+For our final project I designed an implementation of Advanced Encryption Standard (AES) in Verilog with one other student. Our version is able to encrypt and decrypt messaged and utilizes a 128-bit cypher block. We learned about this standard and its real life applications. This was a great opportunity to use the principles of computer architecture that we had studied throughout the course. 
