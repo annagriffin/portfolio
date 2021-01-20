@@ -939,6 +939,25 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+.flex {
+   display: flex;
+}
+
+
+
+
+
+
+
+
+
+
 .img-rounded {
   border-radius: 6px;
 }
