@@ -1,10 +1,10 @@
 ---
 layout: default
-img: dog.png
+img: lego_sorter.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: <a href="https://ridunoff.github.io/LEGpOe/">LEGO Brick Sorter</a>
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+***Principles of Engineering*** *, Fall 2018*
+
+I was a software engineer on an team of four creating an automatic LEGO brick sorter with integrated mechanical, design, electrical, and software components. I developed that system that detected size, shape, and color of LEGO pieces using OpenCV. I also programmed an Arduino board that controlled motors and servos which performed the sorting once the properties of the brick were determined. 

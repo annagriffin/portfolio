@@ -5,6 +5,6 @@ category: Services
 title: <a href="https://annagriffin.github.io/swarm_follow_leader/">Follow the Neato</a>
 description: |
 ---
-*Final Project for **A Computational Intriduction to Robotics**, Fall 2020*
+*Final Project for **A Computational Introduction to Robotics**, Fall 2020*
 
 I worked on a team with one other student to create a Follow the Leader simulation in Gazebo with Neato robots. In our implementation, the leader robot is tele-op controlled while the followers use OpenCV and a fuzzy logic controller to maintain the following behavior we have defined.
