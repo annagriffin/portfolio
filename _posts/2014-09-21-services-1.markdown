@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: swarm_follow.gif
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
-description: |
+title: Follow the Neato
+description: Final project for A Computational Introduction to Robotics
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+I worked on a team with one other student to create a Follow the Leader simulation in Gazebo with Neato robots. In our implementation, the leader robot is tele-op controlled while the followers use OpenCV and a fuzzy logic controller to maintain the following behavior we have defined. 
