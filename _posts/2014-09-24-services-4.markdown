@@ -1,8 +1,8 @@
 ---
 layout: default
-img: swarm_follow.gif
+img: AESEncryption.jpg
 category: Services
-title: <a href="https://sites.google.com/view/aes-encryption/home">AES Encryption</a>
+title: <a href="https://sites.google.com/view/aes-encryption/home" target="_blank">AES Encryption</a>
 description: |
 ---
 ***Computer Architecture*** *, Fall 2019*

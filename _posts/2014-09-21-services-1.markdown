@@ -2,7 +2,7 @@
 layout: default
 img: swarm_follow.gif
 category: Services
-title: <a href="https://annagriffin.github.io/swarm_follow_leader/">Follow the Neato</a>
+title: <a href="https://annagriffin.github.io/swarm_follow_leader/" target="_blank">Follow the Neato</a>
 description: |
 ---
 ***A Computational Introduction to Robotics*** *, Fall 2020*

@@ -2,7 +2,7 @@
 layout: default
 img: lego_sorter.jpg
 category: Services
-title: <a href="https://ridunoff.github.io/LEGpOe/">LEGO Brick Sorter</a>
+title: <a href="https://ridunoff.github.io/LEGpOe/" target="_blank">LEGO Brick Sorter</a>
 description: |
 ---
 ***Principles of Engineering*** *, Fall 2018*

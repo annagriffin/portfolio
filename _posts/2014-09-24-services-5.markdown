@@ -1,0 +1,10 @@
+---
+layout: default
+img: timetracker.gif
+category: Services
+title: <a href="https://sites.google.com/site/softdes18timemanagement/home" target="_blank">TimeTracker Web App</a>
+description: |
+---
+***Software Design*** *, Spring 2018*
+
+With one other classmate, we designed and implemented a web app to track the time users spend on certain activities. We used Flask as our framework which allowed us to take advantage of the many Flask libraries and extensions available. Our site is able to accommodate multiple users and save progress to their account. 
