@@ -5,7 +5,7 @@ category: Services
 title: <a href="https://hushed-wall.herokuapp.com/" target="_blank">News Api App</a>
 description: |
 ---
-***Personal Project*** *, Spring 2020*
+***Personal Project****, Spring 2020*
 
 I used [News API](https://newsapi.org/) to aggregate and display news articles. This webapp supports two types of searches, keyword or categorical. Articles are displayed in a list with summarizing details and an estimated reading time. This project is built with Angular and [UIkit](https://getuikit.com/) framework.
 
