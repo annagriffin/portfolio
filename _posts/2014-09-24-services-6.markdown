@@ -1,10 +1,10 @@
 ---
 layout: default
-img: timetracker.gif
+img: jpegcompression.png
 category: Services
-title: <a href="https://annagriffin.github.io/portfolio/folder/Linearity_I_Final_Report.pdf" target="_blank">TimeTracker Web App</a>
+title: <a href="https://annagriffin.github.io/portfolio/folder/Linearity_I_Final_Report.pdf" target="_blank">JPEG Compression</a>
 description: |
 ---
-***Linearity****, Spring 2018*
+***Linearity I****, Spring 2018*
 
-With one other classmate, we designed and implemented a web app to track the time users spend on certain activities. We used Flask as our framework which allowed us to take advantage of the many Flask libraries and extensions available. Our app is able to accommodate multiple users and save progress to their account. 
+Co-authored a paper explaining a JPEG compression using DCT and Huffman Encoding. To accompany our report, we implemented a python script to perform the compression described in our paper which can be accessed [here](https://github.com/annagriffin/JPEGcompression).
