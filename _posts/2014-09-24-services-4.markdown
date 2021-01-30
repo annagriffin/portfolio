@@ -1,7 +1,7 @@
 ---
 layout: default
 img: AESEncryption.jpg
-category: Services
+category: Projects
 title: <a href="https://sites.google.com/view/aes-encryption/home" target="_blank">AES Encryption</a>
 description: |
 ---

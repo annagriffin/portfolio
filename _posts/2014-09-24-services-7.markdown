@@ -1,7 +1,7 @@
 ---
 layout: default
 img: edgedetection.png
-category: Services
+category: Projects
 title: <a href="https://annagriffin.github.io/portfolio/folder/Linearity_II_Final_Report.pdf" target="_blank">Edge Detection Algorithms</a>
 description: |
 ---

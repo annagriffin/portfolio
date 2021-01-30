@@ -1,7 +1,7 @@
 ---
 layout: default
 img: jpegcompression.png
-category: Services
+category: Projects
 title: <a href="https://annagriffin.github.io/portfolio/folder/Linearity_I_Final_Report.pdf" target="_blank">JPEG Compression</a>
 description: |
 ---

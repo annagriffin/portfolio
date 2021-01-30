@@ -1,7 +1,7 @@
 ---
 layout: default
 img: news_api.png
-category: Services
+category: Projects
 title: <a href="https://hushed-wall.herokuapp.com/" target="_blank">News Api App</a>
 description: |
 ---

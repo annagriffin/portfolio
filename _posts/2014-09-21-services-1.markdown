@@ -1,7 +1,7 @@
 ---
 layout: default
 img: swarm_follow.gif
-category: Services
+category: Projects
 title: <a href="https://annagriffin.github.io/swarm_follow_leader/" target="_blank">Follow the Neato</a>
 description: |
 ---
