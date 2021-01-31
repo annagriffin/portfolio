@@ -1,0 +1,10 @@
+---
+layout: default
+img: contourtrace.gif
+category: Projects
+title: <a href="https://github.com/annagriffin/computer_vision" target="_blank">Robot Contour Tracer</a>
+description: |
+---
+***A Computational Introduction to Robotics****, Fall 2020*
+
+Explored the role of computer vision in the field of robotics by creating a contour tracing robot in [Gazebo](http://gazebosim.org/). We extracted a contour from an image then converted the contour to a set of waypoints that the robot could interpret and follow. We implemented our own contour detection algorithm and reordering method to find the important waypoints and establish a path. 

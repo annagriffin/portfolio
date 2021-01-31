@@ -1,0 +1,10 @@
+---
+layout: default
+img: scheduler.png
+category: Projects
+title: <a href="https://github.com/annagriffin/scheduler" target="_blank">Scheduler</a>
+description: |
+---
+***Personal Project****, Fall 2019*
+
+I created a visual course planner for Olin College courses. This web app uses the MEAN stack and is built on Angular. The dashboard consists of four columns, one for each year, with draggable cards representing planned courses. This planner is specific to the classes and requirements at Olin College of Engineering. 

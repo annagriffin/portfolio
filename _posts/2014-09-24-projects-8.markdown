@@ -1,0 +1,10 @@
+---
+layout: default
+img: particlefilter.gif
+category: Projects
+title: <a href="https://github.com/annagriffin/robot_localization" target="_blank">Robot Localization</a>
+description: |
+---
+***A Computational Introduction to Robotics****, Fall 2020*
+
+Worked on implementing a particle filter algorithm to localize a robot in [Gazebo](http://gazebosim.org/). With one other teammate, we used the robot's LIDAR scanner to map the area around the robot to make a particle cloud. Then, using known information about the map, we re sampled the particles based on probability distribution of the current particle weights. As the robot moves through a the space, the movement gets propagated to the particles in the cloud to simulate the different hypothesis. 
