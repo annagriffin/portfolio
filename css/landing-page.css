@@ -178,13 +178,3 @@ p.copyright {
     padding-top: 30px;
 }
 
-.exp-container {
-    display: flex;
-    flex-direction: column;
-
-}
-
-.exp-row {
-    display: flex;
-    flex-direction: row;
-}
