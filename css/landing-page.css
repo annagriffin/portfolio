@@ -178,3 +178,17 @@ p.copyright {
     padding-top: 30px;
 }
 
+.exp-date {
+    text-align: right;
+}
+
+.exp-item {
+    text-align: left;
+    font-style: italic; 
+}
+
+.exp-position {
+    font-style: italic;
+    font-weight: 400;
+}
+
