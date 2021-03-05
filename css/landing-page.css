@@ -103,10 +103,11 @@ h6 {
     max-width: 900px;
 }
 
-.btn-default {
+.btn-transparent{
     background-color: transparent;
-
 }
+
+
 
 .btn-lg {
     padding: 3px 9px
