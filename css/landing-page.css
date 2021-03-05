@@ -208,3 +208,10 @@ p.copyright {
 .full-width {
     width: 100%;
 }
+
+.skill-item {
+    padding: 5px 12px;
+    border-radius: 5px;
+    color: #428bca;
+    background-color: #d9edf7;
+}
