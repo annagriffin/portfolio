@@ -208,12 +208,13 @@ p.copyright {
 }
 
 .skill-item {
+    display: inline-block;
     padding: 5px 12px;
     border-radius: 5px;
     color: #428bca;
     background-color: #d9edf7;
     height: fit-content;
-    margin: 5px 0px;
+    margin: 4px 2px;
 }
 
 .flex-row {
