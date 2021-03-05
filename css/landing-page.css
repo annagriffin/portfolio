@@ -180,15 +180,23 @@ p.copyright {
 
 .exp-date {
     text-align: right;
+    font-weight: 300;
 }
 
 .exp-item {
     text-align: left;
-    font-style: italic; 
+}
+
+.exp-item > h4 {
+    Margin-top: 0;
 }
 
 .exp-position {
     font-style: italic;
     font-weight: 400;
+}
+
+.exp-items {
+    font-weight: normal;
 }
 
