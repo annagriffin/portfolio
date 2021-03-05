@@ -107,8 +107,6 @@ h6 {
     background-color: transparent;
 }
 
-
-
 .btn-lg {
     padding: 3px 9px
 }
@@ -214,4 +212,11 @@ p.copyright {
     border-radius: 5px;
     color: #428bca;
     background-color: #d9edf7;
+    height: fit-content;
+    margin: 5px 0px;
+}
+
+.flex-row {
+    display: flex;
+
 }
