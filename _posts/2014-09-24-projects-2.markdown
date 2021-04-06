@@ -7,4 +7,4 @@ description: |
 ---
 ***Principles of Engineering****, Fall 2018*
 
-I was a software engineer on an team of four creating an automatic LEGO brick sorter with integrated mechanical, design, electrical, and software components. I developed that system that detected size, shape, and color of LEGO pieces using OpenCV. I also programmed an Arduino board that controlled motors and servos which performed the sorting once the properties of the brick were determined. 
+I was a software engineer on a team of four creating an automatic LEGO brick sorter with integrated mechanical, design, electrical, and software components. I developed that system that detected size, shape, and color of LEGO pieces using OpenCV. I also programmed an Arduino board that controlled motors and servos which performed the sorting once the properties of the brick were determined. 
